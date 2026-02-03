@@ -8,7 +8,7 @@ Flutter news application that displays the latest news from different categories
 - API integration
 - Responsive design
 
-## Screenshot
+
 ## Screenshots
 
 ### Home Screen
