@@ -12,7 +12,7 @@ Flutter news application that displays the latest news from different categories
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./home.png)
+![Home Screen](home.png)
 
 
 ## Tech Stack
