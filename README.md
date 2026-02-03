@@ -9,7 +9,11 @@ Flutter news application that displays the latest news from different categories
 - Responsive design
 
 ## Screenshot
-![Home Screen](home.png)
+## Screenshots
+
+### Home Screen
+![Home Screen](./screenshot/home.png)
+
 
 ## Tech Stack
 - Flutter
